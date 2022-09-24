@@ -1,0 +1,24 @@
+_id: req_35c391db4dcd45b0b90b8c081bcc3b4a
+type: Request
+parentId: wrk_18d6799875c649768d1105a5b9548c89
+modified: 1664025747127
+created: 1664025550834
+url: https://jsonplaceholder.typicode.com/todos/1
+name: Post
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: MY_TOKEN_HERE
+  prefix: asdfj
+metaSortKey: -1664025550834
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
